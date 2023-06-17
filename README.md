@@ -1,5 +1,7 @@
 # Implementing an inline Photos picker
 
+[Source](https://developer.apple.com/documentation/photokit/implementing_an_inline_photos_picker)
+
 Embed a system-provided, half-height Photos picker into your app's view.
 
 ## Overview
